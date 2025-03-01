@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://guomq1.github.io//sitemap.xml
+Sitemap: https://guomq1.github.io/guomq1/sitemap.xml
